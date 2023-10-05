@@ -17,7 +17,7 @@ int main(){
 				printf("%d+%d = %d\n", i, tabuada, i + tabuada);
 			}
 				printf("Subtracao\n");
-			for(i=0;i<=10;i++){
+			for(i=1;i<=10;i++){
 				s = tabuada+i;
 				printf("%d-%d = %d\n", s, tabuada, s - tabuada);
 			}
